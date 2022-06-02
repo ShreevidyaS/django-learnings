@@ -1,1 +1,1 @@
-# docker
+# Django learnings
